@@ -863,8 +863,7 @@
       "30d"
     ]
   },
-  "timezone": "",
-  "title": "Nomad Jobs",
-  "uid": "nomad-cluster",
+  "timezone": "browser",
+  "title": "Nomad",
   "version": 1
 }
