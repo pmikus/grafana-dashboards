@@ -3021,7 +3021,7 @@
     ]
   },
   "time": {
-    "from": "now-30m",
+    "from": "now-4h",
     "to": "now"
   },
   "timepicker": {
@@ -3049,7 +3049,7 @@
       "30d"
     ]
   },
-  "timezone": "",
-  "title": "Prometheus 2.0 Overview",
-  "version": 21
+  "timezone": "browser",
+  "title": "Prometheus",
+  "version": 1
 }
